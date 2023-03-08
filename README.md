@@ -2,7 +2,7 @@
 
 Plantilla Dashboar version 1.1.0.
 
-#### Imagen-1         Presentacion "Con Menu - de día"
+#### Imagen-1         Presentacion "Menu Abierto - de día"
 --- 
 
 ![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img1.JPG)
@@ -10,7 +10,7 @@ Plantilla Dashboar version 1.1.0.
 --- 
 <br>
 
-#### Imagen-2         Registro "Sin Menu - de día"
+#### Imagen-2         Registro "Menu Cerrado - de día"
 --- 
 
 ![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img2.JPG)
@@ -18,7 +18,7 @@ Plantilla Dashboar version 1.1.0.
 --- 
 <br>
 
-#### Imagen-3         Presentacion "Con Menu - de noche"
+#### Imagen-3         Presentacion "Menu Abierto - de noche"
 --- 
 
 ![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img3.JPG)
@@ -26,7 +26,7 @@ Plantilla Dashboar version 1.1.0.
 --- 
 <br>
 
-#### Imagen-4         Registro "Con Menu - de noche"
+#### Imagen-4         Registro "Menu Cerrado - de noche"
 --- 
 
 ![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img4.JPG)
