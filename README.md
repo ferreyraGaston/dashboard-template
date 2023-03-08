@@ -2,34 +2,34 @@
 
 Plantilla Dashboar version 1.1.0.
 
-#### Imagen-1         Presentacion "Con Menu"
+#### Imagen-1         Presentacion "Con Menu - de día"
 --- 
 
-![image](https://user-images.githubusercontent.com/63177312/200876270-c07dc194-4ed6-4195-878e-24e3044802f2.png)
-
---- 
-<br>
-
-#### Imagen-2         Registro "Sin Menu"
---- 
-
-![image](https://user-images.githubusercontent.com/63177312/200876431-51c99957-c60f-46a5-858c-b336fa71c04d.png)
+![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img1.JPG)
 
 --- 
 <br>
 
-#### Imagen-3         Presentacion "Modo Día"
+#### Imagen-2         Registro "Sin Menu - de día"
 --- 
 
-![image](https://user-images.githubusercontent.com/63177312/200876270-c07dc194-4ed6-4195-878e-24e3044802f2.png)
+![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img2.JPG)
 
 --- 
 <br>
 
-#### Imagen-4         Registro "Modo Noche"
+#### Imagen-3         Presentacion "Con Menu - de noche"
 --- 
 
-![image](https://user-images.githubusercontent.com/63177312/200876431-51c99957-c60f-46a5-858c-b336fa71c04d.png)
+![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img3.JPG)
+
+--- 
+<br>
+
+#### Imagen-4         Registro "Con Menu - de noche"
+--- 
+
+![image](https://github.com/gastonloco/dashboard-template/blob/main/img/img4.JPG)
 
 --- 
 <br>
